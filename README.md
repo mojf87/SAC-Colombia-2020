@@ -2,7 +2,7 @@
 Colombian driver assistance system using computer vision
 
 ## Features:
-Traffic Sign detection,
-Traffic Sign recognition,
-Lane detection,
-Obstacle detection
+<br>- Traffic Sign detection</br>
+<br>- Traffic Sign recognition</br>
+<br>- Lane detection</br>
+<br>- Obstacle detectio</br>
