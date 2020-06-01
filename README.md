@@ -5,4 +5,4 @@ Colombian driver assistance system using computer vision
 <br>- Traffic Sign detection</br>
 <br>- Traffic Sign recognition</br>
 <br>- Lane detection</br>
-<br>- Obstacle detectio</br>
+<br>- Obstacle detection</br>
